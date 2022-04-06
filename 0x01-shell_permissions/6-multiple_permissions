@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 chmod +114 hello
+=======
+chmod 754 hello
+>>>>>>> 7ae28ddab8997bb9624a9dbcf7f31c565dc40a27
